@@ -26,7 +26,7 @@
 ## FS26 Timeline
 | Item | Date(s) | Status |
 | --- | --- | --- |
-| Spring semester 2026 (FS26) | Mon, Feb 16, 2026 - Sun, Aug 31, 2026 | Verified |
+| Spring semester 2026 (FS26) | Mon, Feb 16, 2026 - Aug 31, 2026 | Verified |
 | FS26 lecture period | Mon, Feb 16, 2026 - Fri, May 29, 2026 | Verified |
 | Good Friday (lecture-free day) | Fri, Apr 3, 2026 | Verified |
 | Easter Monday (lecture-free day) | Mon, Apr 6, 2026 | Verified |
